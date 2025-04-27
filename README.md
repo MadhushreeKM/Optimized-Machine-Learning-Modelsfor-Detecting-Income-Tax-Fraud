@@ -1,7 +1,14 @@
 
 🛡️ Optimized Machine Learning Models for Detecting Income Tax Fraud
+
 📚 Project Overview
 This project delivers a smart, real-time Income Tax Fraud Detection System using optimized machine learning models. It empowers users and tax authorities to detect potential fraud based on personal and financial information in an easy-to-use web application.
+
+## Journal Paper
+
+For more details, you can read our journal paper:
+[Optimized Machine Learning Models for Detecting Income Tax Fraud](https://ijsrem.com/download/optimized-machine-learning-models-for-detecting-income-tax-fraud/)
+
 
 ✨ Key Features
 🔍 Real-Time Prediction — Immediate fraud risk analysis after data submission.
