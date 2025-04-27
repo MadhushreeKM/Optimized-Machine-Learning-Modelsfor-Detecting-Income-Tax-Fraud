@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Income Tax Fraud Detection System
 
 This is a Streamlit application for detecting potential income tax fraud using machine learning.
@@ -104,3 +105,6 @@ Final model achieves high accuracy and low false-positive rates on the validatio
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 >>>>>>> a82b47af255c224af1d9c4be314e96f8db7fab62
+=======
+# Optimized-Machine-Learning-Modelsfor-Detecting-Income-Tax-Fraud
+>>>>>>> f19df0938a5fb3c6af8836b82112dd40901d5bd1
